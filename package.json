@@ -19,7 +19,7 @@
   "author": "Eli Richardson",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.25.0",
+    "axios": "1.8.2",
     "chalk": "^5.0.0",
     "commander": "^8.3.0",
     "execa": "^6.0.0",
